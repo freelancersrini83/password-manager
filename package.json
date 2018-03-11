@@ -1,0 +1,27 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "Password manager to save all your accounts and details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freelancersrini83/password-manager.git"
+  },
+  "author": "Srinivas Potnuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freelancersrini83/password-manager/issues"
+  },
+  "homepage": "https://github.com/freelancersrini83/password-manager#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.3",
+    "@angular/core": "^5.2.8"
+  }
+}
